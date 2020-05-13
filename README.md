@@ -5,7 +5,7 @@ Built in Python 3.7
 
 # Current Features
 - Navigate to user profile
-- List out the number and username of the people who don't follow you back
+- Lists out the number and usernames of the people who don't follow you back
 - Log out
 
 # Dependencies
